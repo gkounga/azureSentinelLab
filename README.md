@@ -36,16 +36,14 @@
 
     
   </ul>
-
-  <h3>World map of incoming attacks after 24 hours</h3>
-
- ![GetImage(3)](https://github.com/gkounga/azureSentinelLab/assets/99138607/8c6eb235-0c5a-48fa-b07c-3bb662dc481b)
-
   
-  <h3>Script displaying results </h3>
+  <h3> Custom Script displaying RDP attacks </h3>
 
 ![GetImage(2)](https://github.com/gkounga/azureSentinelLab/assets/99138607/041d29d0-8c26-4a28-aecc-5124dc67b23a)
 
+  <h3> World map of incoming attacks after 24 hours</h3>
+
+ ![GetImage(3)](https://github.com/gkounga/azureSentinelLab/assets/99138607/8c6eb235-0c5a-48fa-b07c-3bb662dc481b)
 
 <p><em>Custom logs including geodata were used to generate this map.</em></p>
 
